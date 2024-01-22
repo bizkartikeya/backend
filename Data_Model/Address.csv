@@ -1,0 +1,9 @@
+AddressID,Address,City,County,PostCode,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+1,18 Hill Road,Southampton,Hampshire,SP1 5CN,03-05-2005,1,06-05-2011,4
+2,3 Howard Street,Bournemouth,Dorset,BM3 8JL,12-12-2008,2,09-08-2011,5
+3,12 Parkway,Bournemouth,Dorset,BM2 4MS,08-06-2007,3,09-01-2012,6
+4,189 Bishop Gate,London,Greater London,EC1R 3JJ,02-01-1981,3,25-06-1986,6
+5,10 High Street,Southampton,Hampshire,SP2 0GT,31-04-1989,2,29-06-1986,5
+6,32 King's Road,Bournemouth,Dorset,BM1 6YG,11-11-1983,1,03-05-1989,4
+7,44 Highland Way,Bournemouth,Dorset,BM9 3HY,08-09-2010,4,08-09-2010,4
+8,3 Queens Way,Bournemouth,Dorset,BM4 2LJ,02-12-2011,5,02-12-2011,5

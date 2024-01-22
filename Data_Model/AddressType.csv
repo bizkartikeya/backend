@@ -1,0 +1,7 @@
+AddressTypeCode,AddressType,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+H,Home address,03-05-2005,1,14-06-2005,5
+W,Work address,03-05-2005,1,14-06-2005,5
+AW,Alternate work address,03-05-2005,1,14-06-2005,5
+O,Other address,03-05-2005,1,14-06-2005,5
+SH,Second home address,05-06-2006,3,17-07-2006,6
+HW,Home and work address,05-06-2006,3,17-07-2006,6

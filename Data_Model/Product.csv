@@ -1,0 +1,7 @@
+ProductID,ProductName,AccountTypeCode,ProductType,DateLaunched,ProductManager,BalanceLimit,CurrencyCode,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+1,Pro Save,1,RB,14-01-2011,9,"2,00,000",GBP,03-05-2005,1,14-06-2005,4
+2,Flexible Account 3,2,RB,01-03-2004,9,"10,000",GBP,03-05-2005,1,14-06-2005,4
+3,Home Owner Mortgage,3,RC,11-04-2004,10,"5,00,000",GBP,03-05-2005,1,14-06-2005,5
+4,First Time Buyer Mortgage 25,3,RC,22-05-2004,10,"5,00,000",GBP,03-05-2005,1,14-06-2005,6
+5,Quick Secured Loan,4,RC,02-07-2004,10,"1,00,000",GBP,03-05-2005,1,14-06-2005,1
+6,Term Deposit Basic,5,RB,13-12-2004,10,"50,000",GBP,03-05-2005,1,14-06-2005,5

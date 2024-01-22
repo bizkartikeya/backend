@@ -1,0 +1,4 @@
+BranchCode,BranchName,City,SortCode,BranchManager,AddressID,BranchType,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+100,London Head Office,London,10-10-2011,11,4,Head Office,02-01-1981,3,25-06-1986,6
+219,Southampton High Street,Southampton,12-32-52,7,5,Main Branch,31-04-1989,2,29-06-1986,5
+413,Bournemouth King's Road,Bournemouth,10-23-41,8,6,Sub Branch,11-11-1983,1,03-05-1989,4

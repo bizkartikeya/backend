@@ -1,0 +1,13 @@
+EmployeeID,Login,FirstName,LastName,Branch,Title,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+1,daleb,Brian,Dale,100,Customer Service,03-05-2005,1,14-06-2005,4
+2,mcleana,Andrew,McLean,100,Customer Service,03-05-2005,1,14-06-2005,4
+3,thomsonc,Charlie,Thomson,100,Customer Service,03-05-2005,1,14-06-2005,5
+4,billk,Katherine,Bill,100,Customer Service,03-05-2005,1,14-06-2005,6
+5,cainl,Lorraine,Cain,100,Customer Service,03-05-2005,1,14-06-2005,1
+6,johnsone,Edward,Johnson,219,Credit Officer,03-05-2005,1,14-06-2005,2
+7,murraye,Ellise,Murray,219,Branch Manager,03-05-2005,1,14-06-2005,3
+8,barratj,Jonathan,Barrat,413,Branch Manager,03-05-2005,1,14-06-2005,4
+9,cuthberthh,Howard,Cuthberth,100,Product Manager,03-05-2005,1,14-06-2005,5
+10,haywayl,Lucy,Hayway,100,Product Manager,03-05-2005,1,08-12-2009,2
+11,miltonk,Kay,Milton,100,Vice President,03-05-2005,1,04-09-2010,3
+12,conninghams,Sophie,Cunningham,413,Credit Officer,03-05-2005,1,08-04-2011,4
